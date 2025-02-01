@@ -1,1 +1,2 @@
 # 8_CARECONNECT
+Mental health support is often limited by accessibility, cost, and stigma, preventing individuals from seeking timely help. This Mental Health Chatbot aims to provide a confidential, AI-driven conversational platform that offers emotional support. By leveraging NLP and sentiment analysis, it ensures empathetic interactions while maintaining user privacy and compliance with ethical guidelines.
